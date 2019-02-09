@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.3dc3afcd.chunk.css",
-  "main.js": "/static/js/main.5ae1b868.chunk.js",
-  "main.js.map": "/static/js/main.5ae1b868.chunk.js.map",
+  "main.js": "/static/js/main.97bb3a40.chunk.js",
+  "main.js.map": "/static/js/main.97bb3a40.chunk.js.map",
   "static/css/1.ddfdf6c0.chunk.css": "/static/css/1.ddfdf6c0.chunk.css",
   "static/js/1.3a245a22.chunk.js": "/static/js/1.3a245a22.chunk.js",
   "static/js/1.3a245a22.chunk.js.map": "/static/js/1.3a245a22.chunk.js.map",
@@ -14,9 +14,9 @@
   "static/media/material-icons.css": "/static/media/MaterialIcons-Regular.e79bfd88.eot",
   "static/media/app.sass": "/static/media/GreatVibes-Regular.5bf06596.ttf",
   "static/media/landing1.jpg": "/static/media/landing1.73cf5343.jpg",
-  "static/css/1.ddfdf6c0.chunk.css.map": "/static/css/1.ddfdf6c0.chunk.css.map",
   "static/css/main.3dc3afcd.chunk.css.map": "/static/css/main.3dc3afcd.chunk.css.map",
+  "static/css/1.ddfdf6c0.chunk.css.map": "/static/css/1.ddfdf6c0.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.df5576014b318de245974278e1718716.js": "/precache-manifest.df5576014b318de245974278e1718716.js",
+  "precache-manifest.fc4a942b6a5d23c11a40df0036d9c90a.js": "/precache-manifest.fc4a942b6a5d23c11a40df0036d9c90a.js",
   "service-worker.js": "/service-worker.js"
 }
